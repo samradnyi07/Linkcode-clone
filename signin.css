@@ -1,0 +1,39 @@
+*
+{
+    padding: 12px;
+    border: 0;
+    box-sizing: border-box;
+}
+
+body
+{
+    background-color: rgb(77, 163, 163);
+}
+
+.row
+{
+    padding-top: 10px;
+    background-color: white;
+    border-radius: 30px;
+    
+}
+
+.loginbutton
+{
+    border: none;
+    height: 50px;
+    width: 100%;
+    background-color: rgb(77, 163, 163);
+    border-radius: 14px;
+    font-weight: bold;
+}
+
+.loginbutton:hover
+{
+    background: #b5487f;
+}
+
+.img
+{
+    align-self: center;
+}

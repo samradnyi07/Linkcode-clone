@@ -1,0 +1,21 @@
+*{
+    background-color: rgb(77, 163, 163);
+    margin: 0;
+    padding: 0;
+}
+.halftext{
+    text-align: left;
+    margin-left: -60px;
+}
+.halftext h3{
+    color: white;
+}
+.img1{
+    margin-left: 220px;
+    margin-top: 20px;
+    height: 200px;
+    width: 250px;
+    border-style: solid;
+    border-color: white;
+    border-radius: 10px;    
+}
